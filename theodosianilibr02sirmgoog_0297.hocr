@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theodosianilibr02sirmgoog_0297.png"; bbox 0 0 4959 6134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1144 2026 1208 2120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1144 2026 1208 2120">
+     <span class='ocr_line' id='line_1_1' title="bbox 1144 2026 1208 2120; baseline -0.016 0"><span class='ocrx_word' id='word_1_1' title='bbox 1144 2026 1208 2120; x_wconf 93' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 2278 1870 2594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 2278 1870 2594">
+     <span class='ocr_line' id='line_1_2' title="bbox 688 2278 1663 2412; baseline -0.009 0"><span class='ocrx_word' id='word_1_2' title='bbox 688 2278 1004 2412; x_wconf 81' lang='lat' dir='ltr'>LEGVM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1049 2280 1110 2401; x_wconf 92' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_4' title='bbox 1118 2278 1663 2404; x_wconf 84' lang='lat' dir='ltr'><strong>OVELLARVM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 477 2470 1870 2594; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 477 2472 572 2593; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 609 2470 999 2594; x_wconf 83' lang='lat' dir='ltr'>ORIENTE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1044 2470 1870 2593; x_wconf 83' lang='lat' dir='ltr'><strong>PROMVLGATARVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 901 2817 1683 2981">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 901 2817 1683 2981">
+     <span class='ocr_line' id='line_1_4' title="bbox 901 2817 1683 2981; baseline 0.023 -18"><span class='ocrx_word' id='word_1_8' title='bbox 901 2817 1401 2963; x_wconf 84' lang='lat' dir='ltr'><strong>MARCIAN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1410 2819 1446 2961; x_wconf 92' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_10' title='bbox 1682 2978 1683 2981; x_wconf 11' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 448 3190 1893 3295">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 448 3190 1893 3295">
+     <span class='ocr_line' id='line_1_5' title="bbox 448 3190 1893 3295; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 448 3200 523 3295; x_wconf 90' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 568 3195 929 3295; x_wconf 82' lang='lat' dir='ltr'><strong>EPITOMEN</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 970 3196 1475 3294; x_wconf 83' lang='lat' dir='ltr'><strong>ALARICIANAM</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1506 3190 1893 3292; x_wconf 80' lang='lat' dir='ltr'><strong>RECEPTAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2484 6132">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2484 6132">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2484 6132; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2484 6132; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
